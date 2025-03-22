@@ -1,4 +1,4 @@
-# Flappy Bird - CE 346 Final Project
+# Flappy Bird
 
 **Authors:** Can Afacan, Julian Tang, Yueyuan Sui  
 **Target Board:** nRF52833  
