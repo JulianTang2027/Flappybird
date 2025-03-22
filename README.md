@@ -18,7 +18,7 @@ Before getting started, ensure you have the following:
 ### 1. Clone the Repository
 To begin, clone this repository to your local machine:
 ```sh
-git clone <repository_url>
+git clone <https://github.com/JulianTang2027/Flappybird.git>
 ```
 
 ### 2. Navigate to the Project Directory
@@ -57,5 +57,5 @@ For more details on the nRF52833 microcontroller, visit the [Nordic Semiconducto
   ```
 
 ## License
-This project is for educational purposes under CE 346.
+This project is for educational purposes under CE 346. DO NOT copy this code. 
 
