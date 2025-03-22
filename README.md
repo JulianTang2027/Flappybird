@@ -62,5 +62,5 @@ For more details on the nRF52833 microcontroller, visit the [Nordic Semiconducto
   ```
 
 ## License
-This project is for educational purposes under CE 346. DO NOT copy this code. 
+This project is for educational purposes. DO NOT copy this code. 
 
