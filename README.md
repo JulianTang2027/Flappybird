@@ -45,10 +45,8 @@ Once flashed, the game should start automatically on your nRF52833 board. Follow
 - **Screen:** The game visuals, including obstacles and score, are displayed on the screen.
 
 ## Demo
-<video width="600" controls>
-  <source src="flappybirddemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](flappybirddemo.mp4)
+
 
 
 ## Additional Resources
